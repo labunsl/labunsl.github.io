@@ -1,7 +1,7 @@
 ---
 layout: default
-title: nil
-description: nil
+title: null
+description: null
 strip_title: true
 ---
 
