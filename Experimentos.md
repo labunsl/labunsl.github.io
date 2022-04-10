@@ -1,11 +1,11 @@
 # Experimentos
 
-#### Velocidad del sonido
+#### 🔊 Velocidad del sonido
 
-#### Medición de presión en tubo de Venturi
+#### 🌀 Medición de presión en tubo de Venturi
 
-#### El péndulo
+#### ➰ El péndulo
 
-#### Arquímedes y el desplazamiento
+#### 👑 Arquímedes y el desplazamiento
 
-#### Estimación de la gravedad de la Tierra
+#### 🌍️ Estimación de la gravedad de la Tierra
