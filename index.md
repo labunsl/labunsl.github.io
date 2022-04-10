@@ -6,90 +6,19 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 ![asd](/assets/img/logo.png){: height="100" }
 
-## [Adquirir Kit LibreLab](Adquirir)
+## [⏩️ Adquirir Kit LibreLab](Adquirir)
 
 ## ⏬ Descargar App
 
 ## ¿Cómo se usa?
 
-Documentación
+#### 🚀 Documentación
 
 #### 🧑‍🔬 Experimentos
 
-a
+## Soporte
 
-a
+#### ❓️ Preguntas frecuentes
 
-a
+#### 💬 Contacto con LibreLab
 
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
-a
