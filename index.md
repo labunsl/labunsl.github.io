@@ -6,7 +6,7 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 ![asd](/assets/img/logo.png){: height="120" }
 
-## [⏩️ Adquirir Kit LibreLab](Adquirir)
+## [📦️ Adquirir Kit LibreLab](Adquirir)
 
 ## ⏬ Descargar App
 
