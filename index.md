@@ -13,6 +13,7 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 ---
 
 
+
 ## ¿Cómo se usa?
 
 #### 🚀 Documentación
@@ -20,6 +21,7 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 #### 🧑‍🔬 Experimentos
 
 ---
+
 
 
 ## Soporte
