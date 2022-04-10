@@ -1,9 +1,17 @@
 # Descargar Apps
 
-#### ➡️ Windows
+#### ⏬ Windows
 
-#### ➡️ Android
+#### ⏬ Android
 
-#### ➡️ Linux
+#### ⏬ Linux
+
+
+
+
+
+
+---
+
 
 [⬅️ Volver](./)
