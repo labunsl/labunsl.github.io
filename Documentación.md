@@ -2,7 +2,7 @@
 description: 💡 LibreLab está basado en Arduino, un microcontrolador de código abierto.
 ---
 
-# Documentación
+# 🚀 Documentación
 
 #### Instalación de las apps
 
