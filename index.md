@@ -1,7 +1,6 @@
 ---
 layout: default
-title: LibreLab UNSL
-description: Experimentos arduino
+description: Experimentos
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
