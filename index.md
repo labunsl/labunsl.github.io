@@ -10,11 +10,15 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 ## ⏬ Descargar App
 
+---
+
 ## ¿Cómo se usa?
 
 #### 🚀 Documentación
 
 #### 🧑‍🔬 Experimentos
+
+---
 
 ## Soporte
 
