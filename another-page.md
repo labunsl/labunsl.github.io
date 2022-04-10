@@ -1,7 +1,7 @@
 ---
 layout: default
-title: null
-description: null
+title: nil
+description: nil
 ---
 
 ## Welcome to another page
