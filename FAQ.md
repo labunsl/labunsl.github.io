@@ -1,4 +1,4 @@
-# ❓️ Preguntas más frecuentes
+# ❓️ Preguntas frecuentes
 
 ---
 
