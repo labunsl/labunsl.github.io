@@ -15,11 +15,14 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ page.title | default: "LibreLab UNSL" }}</a></h1>
-
-        {% if site.logo %}
+      
+      {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
+        
+        <h1><a href="{{ "/" | absolute_url }}">{{ page.title | default: "LibreLab UNSL" }}</a></h1>
+
+        
 
         <p>{{ page.description | default:  }}</p>
         
