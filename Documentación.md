@@ -7,6 +7,12 @@
   --border: #8b939c;
 }
 
+## Instalación de las apps
+
+## Manejo del visualizador
+
+#### ⏬ Descargar documentación en PDF
+
 
 ---
 
