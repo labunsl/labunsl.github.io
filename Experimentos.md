@@ -4,7 +4,7 @@
 
 #### 🌀 Medición de presión en tubo de Venturi
 
-#### ➰ El péndulo
+#### ➰ El péndulo de Galileo
 
 #### 👑 Arquímedes y el desplazamiento
 
