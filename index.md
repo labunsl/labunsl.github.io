@@ -26,7 +26,7 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 ## Soporte
 
-#### [❓️ Preguntas frecuentes](PreguntasF)
+#### [❓️ Preguntas frecuentes](FAQ)
 
 #### [💬 Contacto con LibreLab](Contacto)
 
