@@ -28,3 +28,4 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 #### 💬 Contacto con LibreLab
 
+![foto1](/assets/img/foto1.png)
