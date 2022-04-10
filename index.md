@@ -31,5 +31,5 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 |           |              |
 |-----------|-------------:|
-|![foto1](/assets/img/foto1.jpg)|![foto1](/assets/img/foto2.jpg|
+|![foto1](/assets/img/foto1.jpg) | ![foto2](/assets/img/foto2.jpg |
 
