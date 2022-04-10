@@ -41,3 +41,5 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 #### [🧭 Hoja de ruta](https://www.taskade.com/d/dTgpnadR8VPdLM8N?share=view&view=HAEyLtJZXnir3t9c)
 
+#### <a href="https://github.com/labunsl/LibreLabUNSL"><img src="/assets/img/github.gif" alt="Repositorio GitHub"></a>
+
