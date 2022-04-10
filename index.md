@@ -4,7 +4,7 @@ title: LibreLab UNSL
 description: Experimentos
 ---
 
-![asd](/assets/img/logo.png){: heigth="100" }
+![asd](/assets/img/logo.png){: height="100" }
 
 ## [Adquirir Kit LibreLab](Adquirir)
 
