@@ -3,8 +3,8 @@ layout: default
 title: Adquirir Kit LibreLab
 ---
 
-## Pasos para adquirir:
+## Vías de comunicación
 
-Tenés que comprarte un perro
+mail
 
 [back](./)
