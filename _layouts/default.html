@@ -16,11 +16,9 @@
     <div class="wrapper">
       <header>
       
-      {% if aaaasite.logo %}
+      {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" align="left"/>
         {% endif %}
-        <section><img src="/assets/img/librelab.png" alt=" " align="left" width="50" height="52"/>
-        <img src="/assets/img/unsl.png" alt="UNSL" align="right" width="70" height="50"/></section>
         
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: "LibreLab UNSL" }}</a></h1>
 
