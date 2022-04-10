@@ -7,4 +7,4 @@ title: Adquirir Kit LibreLab
 
 mail
 
-[back](./)
+[⬅️ Volver](./)
