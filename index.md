@@ -30,8 +30,6 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 #### [💬 Contacto con LibreLab](Contacto)
 
-#### [🏠️ Nuestro equipo](Equipo)
-
 
 |           |              |
 |-----------|-------------:|
