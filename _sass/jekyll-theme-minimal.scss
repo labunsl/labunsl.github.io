@@ -217,6 +217,13 @@ footer {
 }
 
 
+@media print, screen and (max-width: 1700px) {
+	section {
+		width:400px;
+	}
+}
+
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
