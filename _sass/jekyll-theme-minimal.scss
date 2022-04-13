@@ -223,7 +223,7 @@ footer {
 	}
 }
 
-@media print, screen and (max-heigth: 750px) {
+@media print, screen and (max-height: 750px) {
 	header, footer {
 		position:relative;
 		bottom:0px;
