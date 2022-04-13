@@ -121,7 +121,8 @@ kbd {
 header {
   width:330px;
   float:left;	
-  position:static;
+  position:relative;
+  right:150px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
