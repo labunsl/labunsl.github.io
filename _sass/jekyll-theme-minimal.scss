@@ -224,7 +224,7 @@ footer {
 }
 
 @media print, screen and (max-height: 750px) {
-	header, footer {
+	footer {
 		position:relative;
 		bottom:0px;
 	}
