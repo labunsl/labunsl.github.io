@@ -190,7 +190,7 @@ section {
   width:700px;
   float:right;
   padding-bottom:50px;
-  padding-left:450px;
+  c
   
  }
 
@@ -231,6 +231,7 @@ footer {
 	header, section, footer {
 	    float:none;
 	    position:static;
+	    padding-left:100px;
 	  }
 }
 
