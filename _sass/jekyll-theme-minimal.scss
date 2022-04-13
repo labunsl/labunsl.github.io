@@ -229,9 +229,7 @@ footer {
 
 @media print, screen and (max-height: 500px) {
 	footer {
-		position:relative;
-		left:100px;
-		bottom:0px;
+		float:right;
 	}
 }
 
