@@ -223,9 +223,10 @@ footer {
 	}
 }
 
-@media print, screen and (max-height: 750px) {
+@media print, screen and (max-height: 450px) {
 	footer {
 		position:relative;
+		left:100px;
 		bottom:0px;
 	}
 }
