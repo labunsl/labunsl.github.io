@@ -229,7 +229,7 @@ footer {
 
 @media print, screen and (max-height: 500px) {
 	footer {
-		float:right;
+		position:absolute;
 	}
 }
 
