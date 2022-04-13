@@ -205,7 +205,7 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
+footer {s
   width:500px;
   float:left;
   position:fixed;
@@ -228,9 +228,11 @@ footer {
 }
 
 @media print, screen and (max-height: 500px) {
-	header, footer {
-		position:static;
-	}
+	header, section, footer {
+	    float:none;
+	    position:static;
+	    width:auto;
+	  }
 }
 
 
