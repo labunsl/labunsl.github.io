@@ -121,9 +121,8 @@ kbd {
 header {
   width:330px;
   float:left;	
-  position:relative;
-  right:150px;
-  top:50px;
+  position:fixed;
+  left:150px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -212,7 +211,7 @@ footer {
   position:fixed;
   left:150px;
   bottom:30px;
-  padding-right:10px;
+  padding-right:100px;
   
   -webkit-font-smoothing:subpixel-antialiased;
 }
