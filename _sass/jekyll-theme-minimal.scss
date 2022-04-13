@@ -228,9 +228,8 @@ footer {
 }
 
 @media print, screen and (max-height: 500px) {
-	footer {
-		position:absolute;
-		padding-left:450px;
+	header, footer {
+		position:static;
 	}
 }
 
