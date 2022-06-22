@@ -4,6 +4,13 @@ description: 💡 LibreLab está basado en Arduino, un microcontrolador de códi
 
 # 🚀 Documentación
 
+---
+
+**Fase del proyecto en desarrollo**
+
+![imagen](https://labunsl.github.io/assets/img/progreso.png)
+
+
 #### Instalación de las apps
 
 #### Manejo del visualizador
