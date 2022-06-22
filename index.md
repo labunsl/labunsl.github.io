@@ -4,7 +4,7 @@ title: LibreLab UNSL
 description: Kit educativo de ciencia para experimentos en el aula, basado en Arduino.
 ---
 
-#### [📦️ Adquirir Kit LibreLab](Adquirir)
+<p style="font-size:20px">#### [📦️ Adquirir Kit LibreLab](Adquirir)</p>
 
 #### [⏬ Descargar Apps](Descargar)
 
