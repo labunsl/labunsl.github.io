@@ -5,7 +5,9 @@ title: Adquirir Kit LibreLab
 
 ## Vías de comunicación
 
-mail
+**Fase del proyecto en desarrollo**
+
+![imagen](https://labunsl.github.io/assets/img/progreso.png)
 
 
 
