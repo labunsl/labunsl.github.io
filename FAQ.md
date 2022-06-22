@@ -12,6 +12,6 @@ Podés descargar, modificar y usar el código para lo que quieras, siempre que i
 
 **Fase del proyecto en desarrollo**
 
-![imagen](https://labunsl.github.io/assets/img/progreso.png)
+<img src="https://labunsl.github.io/assets/img/progreso.png" alt="Trabajando..." width="200">
 
 [⬅️ Volver](./)

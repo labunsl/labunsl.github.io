@@ -4,7 +4,7 @@
 
 **Fase del proyecto en desarrollo**
 
-![imagen](https://labunsl.github.io/assets/img/progreso.png)
+<img src="https://labunsl.github.io/assets/img/progreso.png" alt="Trabajando..." width="200">
 
 
 [⬅️ Volver](./)
