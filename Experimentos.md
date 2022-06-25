@@ -2,11 +2,7 @@
 
 ---
 
-**Fase del proyecto en desarrollo**
-
-<img src="https://labunsl.github.io/assets/img/progreso.png" alt="Trabajando..." width="200">
-
-#### 🔊 Velocidad del sonido
+#### [🔊 Velocidad del sonido](VelSonido)
 
 #### 🌀 Medición de presión en tubo de Venturi
 
