@@ -3,7 +3,8 @@
 ---
 
 *Nicolas L. Jofré*    - Depto. de Informática (UNSL)
-Software LibreLab.
+
+> Software LibreLab.
 
 
 #### Ana Paula Lucero    - Depto. de Física (UNSL)
