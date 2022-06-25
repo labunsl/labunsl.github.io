@@ -5,28 +5,17 @@
 **Nicolas L. Jofré**    - Depto. de Informática (UNSL)<br>    Software LibreLab.
 
 
-#### Ana Paula Lucero    - Depto. de Física (UNSL)
+**Ana Paula Lucero**    - Depto. de Física (UNSL)<br>    Guías de trabajo y material educativo.
 
-Guías de trabajo y material educativo.
+**Fernando Seijas**    - Depto. de Física (UNSL)<br>    Armado de experiencias, código Arduino, guías de trabajo.
 
+**Kiernan E. Preve**    - Depto. de Física (UNSL)<br>    Armado de experiencias, código Arduino, guías de trabajo, sitio web.
 
-#### Fernando Seijas    - Depto. de Física (UNSL)
+**Marcelo Pasinetti**    - Depto. de Física (UNSL)<br>    Responsable del proyecto.
 
-Armado de experiencias, código Arduino, guías de trabajo.
+**Myriam Villegas**    - Depto. de Física (UNSL)<br>    Coordinación educativa, revisión de la documentación entregable.
 
-#### Kiernan E. Preve    - Depto. de Física (UNSL)
-
-Armado de experiencias, código Arduino, guías de trabajo, sitio web.
-
-#### Marcelo Pasinetti    - Depto. de Física (UNSL)
-
-Responsable del proyecto.
-
-#### Myriam Villegas    - Depto. de Física (UNSL)
-
-Coordinación educativa, revisión de la documentación entregable.
-
-#### Juan Pablo de Rosas    - Depto de Física (UNSL)
+**Juan Pablo de Rosas**    - Depto de Física (UNSL)<br>
 
 
 
