@@ -1,4 +1,4 @@
-## 🏠️ Nuestro equipo
+## ⭐ Nuestro equipo
 
 ---
 
