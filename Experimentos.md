@@ -6,6 +6,8 @@
 
 #### 🌀 Medición de presión en tubo de Venturi
 
+#### [🎢 Sensor de distancias multipropósito](SensorDistancia)
+
 #### ➰ El péndulo de Galileo
 
 #### 👑 Arquímedes y el desplazamiento
