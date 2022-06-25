@@ -2,23 +2,24 @@
 
 ---
 
-**Nicolas L. Jofré**    - Depto. de Informática<br>    Software LibreLab.
+**Nicolas L. Jofré**²<br>    Software LibreLab.
 
 
-**Ana Paula Lucero**    - Depto. de Física<br>    Guías de trabajo y material educativo.
+**Ana Paula Lucero**¹<br>    Guías de trabajo y material educativo.
 
-**Fernando Seijas**    - Depto. de Física<br>    Armado de experiencias, código Arduino, guías de trabajo.
+**Fernando Seijas**¹<br>    Armado de experiencias, código Arduino, guías de trabajo.
 
-**Kiernan E. Preve**    - Depto. de Física<br>    Armado de experiencias, código Arduino, guías de trabajo, sitio web.
+**Kiernan E. Preve**¹<br>    Armado de experiencias, código Arduino, guías de trabajo, sitio web.
 
-**Marcelo Pasinetti**    - Depto. de Física<br>    Responsable del proyecto.
+**Marcelo Pasinetti**¹<br>    Responsable del proyecto.
 
-**Myriam Villegas**    - Depto. de Física<br>    Coordinación educativa, revisión de la documentación entregable.
+**Myriam Villegas**¹<br>    Coordinación educativa, revisión de la documentación entregable.
 
-**Juan Pablo de Rosas**    - Depto de Física<br>
+**Juan Pablo de Rosas**¹<br>
 
+1. Departamento de Física, Universidad Nacional de San Luis
 
-
+2. Departamento de Informática, Universidad Nacional de San Luis
 
 
 [⬅️ Volver](./)
