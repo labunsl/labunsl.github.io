@@ -20,7 +20,7 @@ Guías de trabajo y material educativo.
 
 Armado de experiencias, código Arduino, guías de trabajo.
 
-#### Kiernan Preve
+#### Kiernan E. Preve
 
 > Depto. de Física (UNSL)
 
