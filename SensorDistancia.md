@@ -10,7 +10,7 @@ Usando un sensor de temperaturas incorporado, podemos hacer uso del segundo modo
 Existen multitud de experimentos de cinemática que pueden ser realizados en el aula con esta configuración. Se provee una guía de trabajo orientada a laboratorios de física en la secundaria, y a física universitaria introductoria.
 {: .textJustify }
 
-![](/assets/img/ondas.jpg)
+![](/assets/img/parabola.jpg)
 
 ---
 
