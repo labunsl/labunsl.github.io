@@ -41,5 +41,5 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 #### [🧭 Hoja de ruta](https://www.taskade.com/d/dTgpnadR8VPdLM8N?share=view&view=HAEyLtJZXnir3t9c)
 
-Sitio versión 0.1.2
+Sitio versión 0.1.3
 
