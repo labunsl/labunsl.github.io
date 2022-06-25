@@ -24,7 +24,6 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 ### [⭐ Acerca del equipo del proyecto](Equipo)
 
-
 |           |              |
 |-----------|-------------:|
 |![foto1](/assets/img/foto1.gif) | ![foto2](/assets/img/foto2.gif) |
