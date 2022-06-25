@@ -2,8 +2,7 @@
 
 ---
 
-#### Nicolas L. Jofré
-<br>*Depto. de Informática (UNSL)*
+#### Nicolas L. Jofré    - Depto. de Informática (UNSL)
 <br>Software LibreLab.
 
 
