@@ -1,4 +1,4 @@
-## 🔊 Experimento con sensor de distancias
+## 🎢 Experimento con sensor de distancias
 
 ---
 
