@@ -6,38 +6,28 @@
 Software LibreLab.
 
 
-#### Ana Paula Lucero
-
-> Depto. de Física (UNSL)
+#### Ana Paula Lucero    - Depto. de Física (UNSL)
 
 Guías de trabajo y material educativo.
 
 
-#### Fernando Seijas
-
-> Depto. de Física (UNSL)
+#### Fernando Seijas    - Depto. de Física (UNSL)
 
 Armado de experiencias, código Arduino, guías de trabajo.
 
-#### Kiernan E. Preve
-
-> Depto. de Física (UNSL)
+#### Kiernan E. Preve    - Depto. de Física (UNSL)
 
 Armado de experiencias, código Arduino, guías de trabajo, sitio web.
 
-#### Marcelo Pasinetti
-
-> Depto. de Física (UNSL)
+#### Marcelo Pasinetti    - Depto. de Física (UNSL)
 
 Responsable del proyecto.
 
-#### Myriam Villegas
-
-> Depto. de Física (UNSL)
+#### Myriam Villegas    - Depto. de Física (UNSL)
 
 Coordinación educativa, revisión de la documentación entregable.
 
-#### Juan Pablo de Rosas
+#### Juan Pablo de Rosas    - Depto de Física (UNSL)
 
 
 
