@@ -11,11 +11,11 @@
 
 **Kiernan E. Preve** ¹<br>    Armado de experiencias, código Arduino, guías de trabajo, sitio web.
 
-**Marcelo Pasinetti** ¹<br>    Responsable del proyecto.
+**Marcelo Pasinetti** ¹<br>    Responsable del proyecto. Supervisión del software.
 
 **Myriam Villegas** ¹<br>    Coordinación educativa, revisión de la documentación entregable.
 
-**Juan Pablo de Rosas** ¹<br>
+**Juan Pablo de Rosas** ¹<br>    Coordinación general.
 
 1. Departamento de Física, Universidad Nacional de San Luis
 
