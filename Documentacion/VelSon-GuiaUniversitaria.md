@@ -42,7 +42,7 @@ Dibuje una línea que represente la velocidad del sonido para la distancia recor
 ![alt_text](VelSon-GuiaUniversitaria/image2.png "image_tooltip")
 
 
-**Pregunta Nº 3: **¿La velocidad del sonido es independiente de la temperatura?
+**Pregunta Nº 3:** ¿La velocidad del sonido es independiente de la temperatura?
 
 **Actividad 1:** 
 
