@@ -19,13 +19,13 @@
 **Pregunta Nº 2:** Si estás en la calle, cerca de un parlante que reproduce música, ¿cómo cambia la intensidad del sonido, a medida que te vas alejando: **aumenta, disminuye o permanece igual?**
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](VelSon-GuiaEscolar/image1.png "image_tooltip")
 
 
 **Pregunta Nº 3:**  Si hay varias personas ubicadas a diferentes distancias del parlante, ¿Cómo cambia el valor de la velocidad del sonido, si esta tiene que llegar a cada persona? Escribí si la velocidad aumenta, disminuye, o permanece igual con la distancia.
 
 
-![alt_text](images/image3.png "image_tooltip")
+![alt_text](VelSon-GuiaEscolar/image3.png "image_tooltip")
 
 
 
@@ -64,7 +64,7 @@ La velocidad del sonido es: (calcule su valor promedio)
 
 Utilizando una aplicación de celular y una cinta métrica, registre la intensidad del sonido de un parlante con una onda sinusoidal, a distintas distancias en la siguiente tabla:
 
-Podés usar la aplicación <a href="https://play.google.com/store/apps/details?id=com.splendapps.decibel"> **Sound Meter** <img src="images/image2.png" alt="Sound Meter" width="36" height="36">
+Podés usar la aplicación <a href="https://play.google.com/store/apps/details?id=com.splendapps.decibel"> **Sound Meter** <img src="VelSon-GuiaEscolar/image2.png" alt="Sound Meter" width="36" height="36">
 
 | **Distancia** (centímetros) | **Intensidad del sonido** (decibeles) |
 |------|------|
