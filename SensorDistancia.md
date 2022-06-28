@@ -15,5 +15,5 @@ Existen multitud de experimentos de cinemática que pueden ser realizados en el 
 ---
 
 
-[⬅️ Volver](./)
+[⬅️ Volver](Experimentos)
 

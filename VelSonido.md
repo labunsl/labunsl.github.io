@@ -12,5 +12,5 @@ El equipo permite la obtención de la velocidad del sonido, a partir de medicion
 ---
 
 
-[⬅️ Volver](./)
+[⬅️ Volver](Experimentos)
 
