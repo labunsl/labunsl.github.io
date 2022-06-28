@@ -28,7 +28,7 @@
 ![alt_text](images/image3.png "image_tooltip")
 
 
- 
+ ---
 
 
 ## Experimentación
@@ -51,11 +51,13 @@ Luego de familiarizarse con el sensor, mida la distancia del mismo a la ubicaci�
 
  Según los datos obtenidos, ¿cómo se compara la velocidad del sonido obtenida en cada medición?
 
+---
 
 ## Conclusión
 
 La velocidad del sonido es: (calcule su valor promedio)
 
+---
 
 ## PARTE II: (opcional)
 
@@ -64,48 +66,19 @@ Utilizando una aplicación de celular y una cinta métrica, registre la intensid
 Podés usar la aplicación **Sound Meter **
 ![alt_text](images/image2.png "image_tooltip")
 
+| **Distancia** (centímetros) | **Intensidad del sonido** (decibeles) |
+|------|------|
+|      |      |
+|      |      |
+|      |      |
+|      |      |
 
-
-<table>
-  <tr>
-   <td><strong>Distancia (centímetros)</strong>
-   </td>
-   <td><strong>Intensidad del sonido (decibeles)</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
+---
 
 
 # 6. Bibliografía
 
 
 
-1. Manual de Entrenamiento AAMe 9 Módulo 1: Introducción \
+1. **Manual de Entrenamiento AAMe 9 Módulo 1: Introducción** \
 Julio Benegas (Universidad Nacional de San Luis, Argentina), David R. Sokoloff (University of Oregon, USA)
