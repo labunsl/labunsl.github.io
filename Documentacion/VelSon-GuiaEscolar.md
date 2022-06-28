@@ -65,7 +65,6 @@ La velocidad del sonido es: (calcule su valor promedio)
 Utilizando una aplicación de celular y una cinta métrica, registre la intensidad del sonido de un parlante con una onda sinusoidal, a distintas distancias en la siguiente tabla:
 
 Podés usar la aplicación <a href="https://play.google.com/store/apps/details?id=com.splendapps.decibel"> **Sound Meter** <img src="images/image2.png" alt="Sound Meter" width="36" height="36">
-![alt_text](images/image2.png "image_tooltip")
 
 | **Distancia** (centímetros) | **Intensidad del sonido** (decibeles) |
 |------|------|
