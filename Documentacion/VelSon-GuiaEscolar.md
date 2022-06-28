@@ -74,8 +74,6 @@ Podés usar la aplicación <a href="https://play.google.com/store/apps/details?i
 |      |      |
 |      |      |
 
----
-
 
 # 6. Bibliografía
 
