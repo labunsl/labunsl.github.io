@@ -36,5 +36,5 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 ---
 
-Sitio versión 0.1.4
+Sitio versión 1.1.4
 
