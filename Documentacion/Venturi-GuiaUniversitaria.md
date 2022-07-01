@@ -66,13 +66,13 @@ Tener en cuenta que los valores de las presiones varían según la velocidad del
 ![alt_text](Venturi-GuiaUniversitaria/image3.png "image_tooltip")
 
 
-Figura 2: Gráfica de P vs t para las dos secciones del tubo de Venturi.
+	Figura 2: Gráfica de P vs t para las dos secciones del tubo de Venturi.
 
 
 ![alt_text](Venturi-GuiaUniversitaria/image2.png "image_tooltip")
 
 
-Figura 3: Gráfica de velocidad vs t para las dos secciones del tubo de Venturi.
+	Figura 3: Gráfica de velocidad vs t para las dos secciones del tubo de Venturi.
 
 
     
