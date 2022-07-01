@@ -9,8 +9,10 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 ---
 
 ## [🧑‍🔬 Guías de Experimentos](Experimentos)
+Accedé a las guías de trabajo propuestas para usar con el equipo!
 
 ## [🚀 Documentación](Documentación)
+Descargá la documentación completa de LibreLab. Incluye guías, manual de software, material teórico y más!
 
 
 |           |              |
