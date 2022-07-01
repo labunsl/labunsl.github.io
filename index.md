@@ -35,6 +35,6 @@ Descargá la documentación completa de LibreLab. Incluye guías, manual de soft
 
 ---
 
-Sitio versión 1.2.1
-
-Desarrollado bajo la convocatoria: "Proyectos para el Desarrollo e Innovación Científica y Tecnológica"
+Sitio versión 1.2.2<br>
+Desarrollado bajo la convocatoria:<br>
+"Proyectos para el Desarrollo e Innovación Científica y Tecnológica"
