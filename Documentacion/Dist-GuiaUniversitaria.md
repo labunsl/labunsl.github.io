@@ -1,8 +1,3 @@
-## **LibreLab (UNSL)**
-
-Kit educativo de ciencia para experimentos en el aula, basado en Arduino.
-
-
 # **Guía trabajo laboratorio universitario**
 
 
@@ -68,7 +63,7 @@ Kit educativo de ciencia para experimentos en el aula, basado en Arduino.
 
 
 
-Actividad 3: Tiro vertical
+## **Actividad 3: Tiro vertical**
 Demostración 8: Imagine que el origen del sistema de coordenadas está en el piso, con dirección vertical y sentido positivo hacia arriba.  Un objeto se arroja verticalmente hacia arriba, disminuye su velocidad hasta detenerse por un momento en el punto máximo de la trayectoria, para luego caer aumentando su rapidez.  Dibuje a la derecha su predicción para las gráficas velocidad-tiempo y aceleración-tiempo que representan el movimiento del objeto, desde un instante después que la arrojamos hacia arriba y hasta un momento antes de que llegue al piso.
 
 
