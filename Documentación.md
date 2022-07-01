@@ -6,11 +6,11 @@ description: 💡 LibreLab está basado en Arduino, un microcontrolador de códi
 
 ---
 
-### ⏬ Documentación **completa** LibreLab (PDF)
+### [⏬ Documentación **completa** LibreLab (PDF)](Documentacion/Documentación LibreLab.zip)
 
 ---
 
-### [⏬ Manual de usuario del software LibreLab](Manual de usuario software LibreLab 1.0.pdf)
+### [⏬ Manual de usuario del software LibreLab](Documentacion/Manual de usuario software LibreLab 1.0.pdf)
 
 
 ---
