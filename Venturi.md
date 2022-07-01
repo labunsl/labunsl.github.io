@@ -2,7 +2,7 @@
 
 ---
 
-[🔎 Ver guía de trabajo escolar](/Documentacion/VelSon-GuiaEscolar)
+[🔎 Ver guía de trabajo escolar](/Documentacion/Venturi-GuiaEscolar)
 
 [🔎 Ver guía de trabajo universitaria](/Documentacion/Venturi-GuiaUniversitaria)
 
