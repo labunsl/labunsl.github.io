@@ -8,15 +8,10 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 <b><a style="font-size:25px" href="https://labunsl.github.io/Descargar">⏬ Descargar Apps</a></b>
 
----
 
+### [🧑‍🔬 Guías de Experimentos](Experimentos)
 
-
-## ¿Cómo se usa?
-
-#### [🧑‍🔬 Guías de Experimentos](Experimentos)
-
-#### [🚀 Documentación](Documentación)
+### [🚀 Documentación](Documentación)
 
 
 |           |              |
