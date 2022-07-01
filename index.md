@@ -5,6 +5,7 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 ---
 
 <b><a style="font-size:25px" href="https://labunsl.github.io/Descargar">⏬ Descargar Apps</a></b>
+Beta pública: 15 de Agosto del 2022
 
 ---
 
