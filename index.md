@@ -25,6 +25,8 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 
 <iframe width="364" height="205" src="https://www.youtube.com/embed/qOeYuYKHJps?controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 ### [⭐ Acerca del equipo del proyecto](Equipo)
 
 ## Soporte
