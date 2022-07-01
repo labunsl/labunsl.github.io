@@ -92,7 +92,7 @@ Ahora su instructor encenderá la sopladora e iniciará el registro de datos obt
 1. ¿Cómo se compara la presión en la sección 1 con la presión en la sección 2?
 2. ¿Cómo se compara la velocidad en la sección 1 con la velocidad en la sección 2?
 
-**Conclusiones: **
+**Conclusiones:**
 
 Con base en sus observaciones de la experiencia realizada, complete:
 
