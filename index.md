@@ -35,5 +35,5 @@ Descargá la documentación completa de LibreLab. Incluye guías, manual de soft
 
 ---
 
-Sitio versión 1.2.0
+Sitio versión 1.2.1
 
