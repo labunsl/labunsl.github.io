@@ -19,8 +19,6 @@ Versión beta para Windows
 |-----------|-------------:|
 |![foto1](/assets/img/captura.jpg) | ![foto2](/assets/img/foto2.gif) |
 
-<iframe width="364" height="205" src="https://www.youtube.com/embed/qOeYuYKHJps?controls=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ---
 
 ### [⭐ Acerca del equipo del proyecto](Equipo)
