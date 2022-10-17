@@ -2,16 +2,17 @@
 layout: default
 title: LibreLab UNSL
 description: Kit educativo de ciencia para experimentos en el aula, basado en Arduino.
----
-
-<b><a style="font-size:25px" href="https://labunsl.github.io/Descargar">⏬ Descargar Apps</a></b>
-
-Versión beta para Windows
 
 ---
 
 ## [🧑‍🔬 Guías de Experimentos](Experimentos)
 Accedé a las guías de trabajo propuestas para usar con el equipo!
+
+---
+
+<b><a style="font-size:25px" href="https://labunsl.github.io/Descargar">⏬ Descargar Apps</a></b>
+
+Versión beta para Windows
 
 
 |           |              |
