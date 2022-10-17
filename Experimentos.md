@@ -2,18 +2,11 @@
 
 ---
 
-#### [🔊 Velocidad del sonido](VelSonido)
+#### [🟦 Por Sensores](PorSensores)
 
-#### [🌀 Medición de presión en tubo de Venturi](Venturi)
+#### [🟥 Por Temática](PorTematica)
 
-#### [🎢 Sensor de distancias multipropósito](SensorDistancia)
-
-#### ➰ El péndulo de Galileo
-
-#### 👑 Arquímedes y el desplazamiento
-
-#### 🌍️ Estimación de la gravedad de la Tierra
-
+#### [🟩 Todos los experimentos](Listado)
 ---
 
 [⬅️ Volver](./)
