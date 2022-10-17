@@ -35,6 +35,6 @@ Versión beta para Windows
 
 ---
 
-Sitio versión 1.2.2<br>
+Sitio versión 1.3<br>
 Desarrollado bajo la convocatoria:<br>
 "Proyectos para el Desarrollo e Innovación Científica y Tecnológica"
