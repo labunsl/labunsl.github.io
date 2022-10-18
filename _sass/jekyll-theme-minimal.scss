@@ -240,6 +240,14 @@ footer {
 
 }
 
+@media print, screen and (max-width: 1400px) {
+	section {
+		padding-left:600px;
+		width:550px;
+		
+	}
+}
+
 
 @media print, screen and (max-width: 960px) {
 
