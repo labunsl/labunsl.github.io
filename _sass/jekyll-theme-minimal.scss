@@ -220,7 +220,7 @@ footer {
 }
 
 
-@media print, screen and (max-width: 1000px) {
+@media print, screen and (max-width: 1400px) {
 	section {
 		width:550px;
 		
@@ -246,7 +246,7 @@ footer {
 }
 
 
-@media print, screen and (max-width: 900px) {
+@media print, screen and (max-width: 700px) {
 
   div.wrapper {
     width:auto;
@@ -281,7 +281,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 690px) {
   body {
     word-wrap:break-word;
   }
