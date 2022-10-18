@@ -241,7 +241,10 @@ footer {
 }
 
 @media print, screen and (max-width: 1400px) {
-	
+	section {
+    	 	width:550px;
+		margin: 300px 0 20px;
+	}
 }
 
 
@@ -267,8 +270,6 @@ footer {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
-    padding-left:600px;
-    width:550px;
   }
 
   header a small {
