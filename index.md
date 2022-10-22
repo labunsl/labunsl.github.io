@@ -17,7 +17,6 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 |-----------|-------------:|
 |![foto1](/assets/img/captura.jpg) | ![foto2](/assets/img/foto2.gif) |
 
----
 
 ### [⭐ Acerca del equipo del proyecto](Equipo)
 
