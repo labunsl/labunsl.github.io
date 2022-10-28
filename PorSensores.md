@@ -4,11 +4,13 @@
 
 ## 🌀 Sensor de presión
 
-#### [Efecto Venturi](SensorPresion)
+#### [Efecto Venturi](Venturi)
 
 ## 🔊 Sensor ultrasónico
 
-#### [Velocidad del sonido y distancia](SensorUltrasonico)
+#### [Velocidad del sonido](VelSonido)
+
+#### [Análisis de movimientos lineales](SensorDistancia)
 
 ---
 
