@@ -34,29 +34,22 @@
 
 ## Experimentación
 
-**Actividad 1:** 
+**Actividad 1: PLANIFICACIÓN** 
 
-Luego de familiarizarse con el sensor, mida la distancia del mismo a la ubicación del objetivo y complete la siguiente tabla realizando las mediciones que correspondan. Más tarde, haga los cálculos correspondientes para encontrar la velocidad del sonido en cada caso.
-
-
-
-| **Distancia** (metros) | **Tiempo de vuelo** (segundos) | **Tiempo (Tiempo de vuelo / 2)** (segundos) | **Velocidad del sonido** (m/s) |
-|------|------|------|------|
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
-|      |      |      |      |
+Trabaja en grupo y a partir de observar el funcionamiento del equipo experimental, propone un método para medir la velocidad del sonido.
+Comparte con la clase la planificación propuesta.
 
 
-**Actividad 2:**
 
- Según los datos obtenidos, ¿cómo se compara la velocidad del sonido obtenida en cada medición?
+**Actividad 2: EXPERIMENTACIÓN**
+
+Lleva adelante la planificación propuesta, incluyendo las dificultades y los cambios que debiste realizar a partir de la planificación inicial.
 
 ---
 
-## Conclusión
+**Actividad 3: CONCLUSIÓN**
 
-La velocidad del sonido es: (calcule su valor promedio)
+Resume todo lo realizado a fin que alguien que no estuvo presente en el laboratorio entienda lo que se realizó. 
 
 ---
 
@@ -73,12 +66,5 @@ Podés usar la aplicación <a href="https://play.google.com/store/apps/details?i
 |      |      |
 |      |      |
 
-
-# 6. Bibliografía
-
-
-
-1. **Manual de Entrenamiento AAMe 9 Módulo 1: Introducción** \
-Julio Benegas (Universidad Nacional de San Luis, Argentina), David R. Sokoloff (University of Oregon, USA)
 
 [⬅️ Volver](../VelSonido)

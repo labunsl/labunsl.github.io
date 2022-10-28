@@ -2,9 +2,7 @@
 
 ---
 
-[🔎 Ver guía de trabajo - nivel secundario](/Documentacion/VelSon-GuiaEscolar)
-
-[🔎 Ver guía de trabajo - nivel universitario](/Documentacion/VelSon-GuiaUniversitaria)
+[🔎 Ver guía](/Documentacion/VelSon-GuiaEscolar)
 
 [⏬ Descargar guía completa para aula](Documentacion/Guía Velocidad del sonido.pdf)
 

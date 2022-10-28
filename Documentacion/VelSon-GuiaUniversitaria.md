@@ -16,9 +16,9 @@ Basándonos en los valores de error del sensor y la distancia, hacer propagació
 
 ## Predicciones
 
-**Pregunta Nº 1:** ¿Qué entendés por “velocidad del sonido”?
+**Pregunta Nº 1:** ¿Cómo se te ocurre que podrías medir la velocidad del sonido?
 
-**Pregunta Nº 2:** Si estás en la calle, cerca de un parlante que reproduce música, ¿cómo cambia la intensidad del sonido, a medida que te vas alejando: **aumenta, disminuye o permanece igual?**
+**Pregunta Nº 2:** Si estás en la calle, cerca de un parlante que reproduce música, ¿cómo cambia la intensidad del sonido, a medida que te vas alejando: **aumenta, disminuye o permanece igual? ¿Cómo lo explicarías?**
 
 
 ![alt_text](VelSon-GuiaUniversitaria/image1.png "image_tooltip")
