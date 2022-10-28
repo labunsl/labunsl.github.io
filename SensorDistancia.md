@@ -4,7 +4,7 @@
 
 [🔎 Ver guía de trabajo - nivel universitario](/Documentacion/Dist-GuiaUniversitaria)
 
-[⏬ Descargar guía de trabajo - nivel universitario](/Documentacion/SensorDist - Guía universitaria.pdf)
+[⏬ Descargar guía completa para aula](/Documentacion/Guía Movimiento.pdf)
 
 
 Usando un sensor de temperaturas incorporado, podemos hacer uso del segundo modo de funcionamiento del equipo, que mide la temperatura del ambiente y con esto nos estima un valor calculado para la velocidad del sonido. A partir de esto, podemos obtener mediciones de distancia.

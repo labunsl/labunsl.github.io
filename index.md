@@ -22,7 +22,7 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 
 ## Soporte
 
-#### [📑 Manual del usuario del software](https://labunsl.github.io/Documentacion/Manual%20de%20usuario%20software%20LibreLab%201.0.pdf)
+#### [📑 Manual del usuario del software](/Documentacion/Manual software LibreLab.pdf)
 
 #### [❓️ Preguntas frecuentes](FAQ)
 
