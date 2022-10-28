@@ -10,7 +10,7 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 
 ---
 
-<b><a style="font-size:25px" href="[https://labunsl.github.io/Descargar](https://github.com/labunsl/LibreLabUNSL/blob/main/C%C3%B3digos%20Arduino/LibreLab_App/LibreLab1.3/LibreLabSetup/Release/LibreLabSetup.msi)">⏬ Descargar App</a></b>    (Para PC - Windows)
+<b><a style="font-size:25px" href="https://github.com/labunsl/LibreLabUNSL/raw/main/C%C3%B3digo%20Software%20LibreLab/LibreLab_v.13_windows_binarios/LibreLabSetup.msi">⏬ Descargar App</a></b>    (Para PC - Windows)
 
 
 |           |              |
