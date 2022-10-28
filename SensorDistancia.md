@@ -2,7 +2,7 @@
 
 ---
 
-[🔎 Ver guía de trabajo - nivel universitario](/Documentacion/Dist-GuiaUniversitaria)
+[🔎 Ver guía online](/Documentacion/Dist-GuiaUniversitaria)
 
 [⏬ Descargar guía completa para aula](/Documentacion/Guía Movimiento.pdf)
 
