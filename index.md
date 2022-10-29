@@ -17,8 +17,8 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 
 <div class="imageContainer">
 
-  <img src ="/assets/img/captura.jpg" height="500"/>
   <img src ="/assets/img/chiques.gif" height="500"/>
+  <img src ="/assets/img/captura.jpg" height="500"/>
 
 </div>
 
