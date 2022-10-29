@@ -116,6 +116,11 @@ img:hover {
     transform:scale(1.5);
 }
 
+.imageContainer > img:hover {
+  -webkit-transform:scale(1.5); /* or some other value */
+  transform:scale(1.5);
+}
+
 kbd {
   background-color: #fafbfc;
   border: 1px solid #c6cbd1;
