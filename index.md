@@ -6,13 +6,11 @@ description: Kit educativo de ciencia para experimentos en el aula, basado en Ar
 ---
 
 ## [🧑‍🔬 Guías de Experimentos](Experimentos)
-Accedé a las guías de trabajo propuestas para usar con el equipo!
+Propuestas para usar con el equipo!
 
 ---
 
-<b><a style="font-size:25px" href="https://github.com/labunsl/LibreLabUNSL/raw/main/C%C3%B3digo%20Software%20LibreLab/LibreLab_v.1.3_windows_binarios/LibreLabSetup.msi">⏬ Descargar App</a></b>
-
-(Para PC - Windows)
+<b><a style="font-size:25px" href="https://github.com/labunsl/LibreLabUNSL/raw/main/C%C3%B3digo%20Software%20LibreLab/LibreLab_v.1.3_windows_binarios/LibreLabSetup.msi">⏬ Descargar App</a></b>(Windows)
 
 
 <div class="imageContainer">
@@ -23,18 +21,15 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 </div>
 
 
-
-## Soporte
-
 #### [📑 Manual del usuario del software](/Documentacion/Manual software LibreLab.pdf)
 
 #### [❓️ Preguntas frecuentes](FAQ)
 
 #### [💬 Contacto con LibreLab](Contacto)
 
----
-
 #### [⭐ Acerca del equipo del proyecto](Equipo)
+
+---
 
 Sitio versión 1.3<br>
 Desarrollado bajo la convocatoria:<br>
