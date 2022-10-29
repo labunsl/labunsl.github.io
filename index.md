@@ -10,7 +10,7 @@ Propuestas para usar con el equipo!
 
 ---
 
-<b><a style="font-size:25px" href="https://github.com/labunsl/LibreLabUNSL/raw/main/C%C3%B3digo%20Software%20LibreLab/LibreLab_v.1.3_windows_binarios/LibreLabSetup.msi">⏬ Descargar App</a></b>(Windows)
+<b><a style="font-size:25px" href="https://github.com/labunsl/LibreLabUNSL/raw/main/C%C3%B3digo%20Software%20LibreLab/LibreLab_v.1.3_windows_binarios/LibreLabSetup.msi">⏬ Descargar App</a></b>  (Windows)
 
 
 <div class="imageContainer">
