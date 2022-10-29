@@ -14,21 +14,6 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 
 (Para PC - Windows)
 
-1
-
-|           |              |
-|-----------|-------------:|
-|![foto1](/assets/img/captura.jpg) | ![foto2](/assets/img/foto2.gif) |
-
-2
-
-<div class="imageContainer">
-|           |              |
-|-----------|-------------:|
-|![foto1](/assets/img/captura.jpg) | ![foto2](/assets/img/foto2.gif) |
-</div>
-
-3
 
 <div class="imageContainer">
   <img src ="/assets/img/captura.jpg" height="500"/>
