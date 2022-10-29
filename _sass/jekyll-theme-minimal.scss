@@ -108,10 +108,13 @@ th {
 img {
   max-width:100%;
   max-height:300px;
+}
+
+imageContainer {
   transition:transform 0.25s ease;
 }
 
-img:hover {
+imageContainer:hover {
     -webkit-transform:scale(1.5); /* or some other value */
     transform:scale(1.5);
 }
