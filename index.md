@@ -14,11 +14,10 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 
 (Para PC - Windows)
 
-<div class="imageContainer"> 
+
 |           |              |
 |-----------|-------------:|
 |![foto1](/assets/img/captura.jpg) | ![foto2](/assets/img/foto2.gif) |
-</div>
 
 
 ## Soporte
