@@ -16,10 +16,10 @@ Accedé a las guías de trabajo propuestas para usar con el equipo!
 
 
 <div class="imageContainer">
-  <p style="text-align:center;">
-  <img src ="/assets/img/captura.jpg" height="500"/>
-  <img src ="/assets/img/foto2.gif" height="500"/>
-  </p>
+
+  <img class="centerImage" src ="/assets/img/captura.jpg" height="500"/>
+  <img class="centerImage" src ="/assets/img/foto2.gif" height="500"/>
+
 </div>
 
 

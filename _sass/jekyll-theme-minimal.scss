@@ -111,6 +111,11 @@ img {
   transition:transform 0.25s ease;
 }
 
+.centerImage {
+ text-align:center;
+ display:block;
+}
+
 
 .imageContainer > img:hover {
   -webkit-transform:scale(1.5); /* or some other value */
