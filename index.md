@@ -20,6 +20,7 @@ Propuestas para usar con el equipo!
 
 </div>
 
+<br>
 
 #### [📑 Manual del usuario del software](/Documentacion/Manual software LibreLab.pdf)
 
