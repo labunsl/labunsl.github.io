@@ -2,11 +2,11 @@
 
 ---
 
-#### [🟦 Por Sensores](PorSensores)
+## [🟦 Por Sensores](PorSensores)
 
-#### [🟥 Por Temática](PorTematica)
+## [🟥 Por Temática](PorTematica)
 
-#### [🟩 Todos los experimentos](Listado)
+## [🟩 Todos los experimentos](Listado)
 
 ---
 
