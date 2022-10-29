@@ -10,8 +10,4 @@ También podés ingresar a través del icono de GitHub <a href="https://github.c
 
 Podés descargar, modificar y usar el código para lo que quieras, siempre que igualmente lo distribuyas bajo la misma licencia GPL3, de código abierto, y referencies el código original.
 
-**Fase del proyecto en desarrollo**
-
-<img src="https://labunsl.github.io/assets/img/progreso.png" alt="Trabajando..." width="200">
-
 [⬅️ Volver](./)
