@@ -11,7 +11,7 @@
 
 **Kiernan E. Preve** ¹<br>    Armado de experiencias, código Arduino, guías de trabajo, sitio web.
 
-**Marcelo Pasinetti** ¹<br>    Responsable del proyecto, supervisión del software, documentación software.
+**Marcelo Pasinetti** ¹<br>    Responsable del proyecto, supervisión y documentación del software.
 
 **Myriam Villegas** ¹<br>    Coordinación educativa, revisión de la documentación entregable.
 
